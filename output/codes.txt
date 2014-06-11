@@ -1,7 +1,0 @@
-cat dan.txt | tr '\' '_' | tr '/' '_' | tr '\t' '|' | sed 's/| */|/'g | grep -v '^$'
-
-cat sss.txt | awk -F '|' '{print $7 "\t" $5}' | tr -d ' ' | awk 'length($1) <=4'
-
-cat students.txt | tr -d "\'" | tr '\' '_' | tr '/' '_' | tr '\t' '|' | sed 's/| */|/'g | grep -v '^$' > dat
-
-cat data | awk -F '|' '{print "STUDENT|"$7" Level|"$5"|"$4"|"$1"|"$3"|"$2}' | tr -d "\'" | tr -d '\' | tr -d '/' |sed 's/| */|/'g | grep -v '^$'
