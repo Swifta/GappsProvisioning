@@ -1,0 +1,52 @@
+Accounting (B.Sc.Ed)|Education
+Accounting B.Sc|Social And Management Science
+Adult education (B.Ed)|Education
+Banking and Finance B.Sc|Social And Management Science
+Biochemistry B.Sc|Science
+Biology (B.Sc.Ed)|Education
+Business Administration B.Sc|Social And Management Science
+Chemistry (B.Sc.Ed)|Education
+Chemistry B.Sc|Science
+Computer science (B.Sc.Ed)|Education
+Computer Science B.Sc|Science
+Economics (B.Sc.Ed)|Education
+Economics B.Sc|Social And Management Science
+Educational Management (B.Ed)|Education
+English (B.A.Ed)|Education
+English B.A|Arts
+Environmental Biology and Fisheries B.Sc|Science
+Geography (B.Sc.Ed)|Education
+Geography and Planning Science B.Sc|Social And Management Science
+Geology B.Sc|Science
+Geophysics B.Sc|Science
+Guidiance and Counselling (B.Ed)|Education
+Health Education (B.Sc.Ed)|Education
+History (B.A.Ed)|Education
+History and International Studies B.A|Arts
+Human Kinetics (B.Sc.Ed)|Education
+Industrial Chemistry B.Sc|Science
+Industrial Mathematics B.Sc|Science
+Integrated Science (B.Sc.Ed)|Education
+Law|Law
+Linguistics and Languages B.A|Arts
+Linguistic_Yoruba B.A|Arts
+Mass Communication B.A|Arts
+Mathematics (B.Sc.Ed)|Education
+Mathematics B.Sc|Science
+Microbiology B.Sc|Science
+Philosophy B.A|Arts
+Physics (B.Sc.Ed)|Education
+Physics Electronics B.Sc|Science
+Plant Science & Biotechnology B.Sc|Science
+Political Science (B.Sc.Ed)|Education
+Political Science B.Sc|Social And Management Science
+Psychology B.Sc|Social And Management Science
+Public Administration B.Sc|Social And Management Science
+Religious studies (B.A.Ed)|Education
+Religious Studies B.A|Arts
+Religious Studies_Philosophy B.A|Arts
+Social Studies (B.Ed)|Education
+Sociology B.Sc|Social And Management Science
+Technical Education (B.Sc.Ed)|Education
+Yoruba (B.A.Ed)|Education
+YORUBA B.A|ARTS

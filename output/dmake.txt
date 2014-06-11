@@ -1,0 +1,206 @@
+STUDENT|100 Level|ARTS|YORUBA B.A
+STUDENT|100 Level|Arts|English B.A
+STUDENT|100 Level|Arts|History and International Studies B.A
+STUDENT|100 Level|Arts|Linguistic_Yoruba B.A
+STUDENT|100 Level|Arts|Linguistics and Languages B.A
+STUDENT|100 Level|Arts|Mass Communication B.A
+STUDENT|100 Level|Arts|Philosophy B.A
+STUDENT|100 Level|Arts|Religious Studies B.A
+STUDENT|100 Level|Arts|Religious Studies_Philosophy B.A
+STUDENT|100 Level|Education|Accounting (B.Sc.Ed)
+STUDENT|100 Level|Education|Adult education (B.Ed)
+STUDENT|100 Level|Education|Biology (B.Sc.Ed)
+STUDENT|100 Level|Education|Chemistry (B.Sc.Ed)
+STUDENT|100 Level|Education|Computer science (B.Sc.Ed)
+STUDENT|100 Level|Education|Economics (B.Sc.Ed)
+STUDENT|100 Level|Education|Educational Management (B.Ed)
+STUDENT|100 Level|Education|English (B.A.Ed)
+STUDENT|100 Level|Education|Geography (B.Sc.Ed)
+STUDENT|100 Level|Education|Guidiance and Counselling (B.Ed)
+STUDENT|100 Level|Education|Health Education (B.Sc.Ed)
+STUDENT|100 Level|Education|History (B.A.Ed)
+STUDENT|100 Level|Education|Human Kinetics (B.Sc.Ed)
+STUDENT|100 Level|Education|Integrated Science (B.Sc.Ed)
+STUDENT|100 Level|Education|Mathematics (B.Sc.Ed)
+STUDENT|100 Level|Education|Physics (B.Sc.Ed)
+STUDENT|100 Level|Education|Political Science (B.Sc.Ed)
+STUDENT|100 Level|Education|Religious studies (B.A.Ed)
+STUDENT|100 Level|Education|Social Studies (B.Ed)
+STUDENT|100 Level|Education|Technical Education (B.Sc.Ed)
+STUDENT|100 Level|Education|Yoruba (B.A.Ed)
+STUDENT|100 Level|Law|Law
+STUDENT|100 Level|Science|Biochemistry B.Sc
+STUDENT|100 Level|Science|Chemistry B.Sc
+STUDENT|100 Level|Science|Computer Science B.Sc
+STUDENT|100 Level|Science|Environmental Biology and Fisheries B.Sc
+STUDENT|100 Level|Science|Geology B.Sc
+STUDENT|100 Level|Science|Mathematics B.Sc
+STUDENT|100 Level|Science|Microbiology B.Sc
+STUDENT|100 Level|Science|Physics Electronics B.Sc
+STUDENT|100 Level|Science|Plant Science & Biotechnology B.Sc
+STUDENT|100 Level|Social And Management Science|Accounting B.Sc
+STUDENT|100 Level|Social And Management Science|Banking and Finance B.Sc
+STUDENT|100 Level|Social And Management Science|Business Administration B.Sc
+STUDENT|100 Level|Social And Management Science|Economics B.Sc
+STUDENT|100 Level|Social And Management Science|Geography and Planning Science B.Sc
+STUDENT|100 Level|Social And Management Science|Political Science B.Sc
+STUDENT|100 Level|Social And Management Science|Psychology B.Sc
+STUDENT|100 Level|Social And Management Science|Public Administration B.Sc
+STUDENT|100 Level|Social And Management Science|Sociology B.Sc
+STUDENT|200 Level|ARTS|YORUBA B.A
+STUDENT|200 Level|Arts|English B.A
+STUDENT|200 Level|Arts|History and International Studies B.A
+STUDENT|200 Level|Arts|Linguistic_Yoruba B.A
+STUDENT|200 Level|Arts|Linguistics and Languages B.A
+STUDENT|200 Level|Arts|Mass Communication B.A
+STUDENT|200 Level|Arts|Philosophy B.A
+STUDENT|200 Level|Arts|Religious Studies B.A
+STUDENT|200 Level|Arts|Religious Studies_Philosophy B.A
+STUDENT|200 Level|Education|Accounting (B.Sc.Ed)
+STUDENT|200 Level|Education|Adult education (B.Ed)
+STUDENT|200 Level|Education|Biology (B.Sc.Ed)
+STUDENT|200 Level|Education|Chemistry (B.Sc.Ed)
+STUDENT|200 Level|Education|Computer science (B.Sc.Ed)
+STUDENT|200 Level|Education|Economics (B.Sc.Ed)
+STUDENT|200 Level|Education|Educational Management (B.Ed)
+STUDENT|200 Level|Education|English (B.A.Ed)
+STUDENT|200 Level|Education|Geography (B.Sc.Ed)
+STUDENT|200 Level|Education|Guidiance and Counselling (B.Ed)
+STUDENT|200 Level|Education|Health Education (B.Sc.Ed)
+STUDENT|200 Level|Education|History (B.A.Ed)
+STUDENT|200 Level|Education|Human Kinetics (B.Sc.Ed)
+STUDENT|200 Level|Education|Integrated Science (B.Sc.Ed)
+STUDENT|200 Level|Education|Mathematics (B.Sc.Ed)
+STUDENT|200 Level|Education|Physics (B.Sc.Ed)
+STUDENT|200 Level|Education|Political Science (B.Sc.Ed)
+STUDENT|200 Level|Education|Religious studies (B.A.Ed)
+STUDENT|200 Level|Education|Social Studies (B.Ed)
+STUDENT|200 Level|Education|Technical Education (B.Sc.Ed)
+STUDENT|200 Level|Education|Yoruba (B.A.Ed)
+STUDENT|200 Level|Law|Law
+STUDENT|200 Level|Science|Biochemistry B.Sc
+STUDENT|200 Level|Science|Chemistry B.Sc
+STUDENT|200 Level|Science|Computer Science B.Sc
+STUDENT|200 Level|Science|Environmental Biology and Fisheries B.Sc
+STUDENT|200 Level|Science|Geology B.Sc
+STUDENT|200 Level|Science|Geophysics B.Sc
+STUDENT|200 Level|Science|Industrial Chemistry B.Sc
+STUDENT|200 Level|Science|Industrial Mathematics B.Sc
+STUDENT|200 Level|Science|Mathematics B.Sc
+STUDENT|200 Level|Science|Microbiology B.Sc
+STUDENT|200 Level|Science|Physics Electronics B.Sc
+STUDENT|200 Level|Science|Plant Science & Biotechnology B.Sc
+STUDENT|200 Level|Social And Management Science|Accounting B.Sc
+STUDENT|200 Level|Social And Management Science|Banking and Finance B.Sc
+STUDENT|200 Level|Social And Management Science|Business Administration B.Sc
+STUDENT|200 Level|Social And Management Science|Economics B.Sc
+STUDENT|200 Level|Social And Management Science|Geography and Planning Science B.Sc
+STUDENT|200 Level|Social And Management Science|Political Science B.Sc
+STUDENT|200 Level|Social And Management Science|Psychology B.Sc
+STUDENT|200 Level|Social And Management Science|Public Administration B.Sc
+STUDENT|200 Level|Social And Management Science|Sociology B.Sc
+STUDENT|300 Level|ARTS|YORUBA B.A
+STUDENT|300 Level|Arts|English B.A
+STUDENT|300 Level|Arts|History and International Studies B.A
+STUDENT|300 Level|Arts|Linguistic_Yoruba B.A
+STUDENT|300 Level|Arts|Linguistics and Languages B.A
+STUDENT|300 Level|Arts|Mass Communication B.A
+STUDENT|300 Level|Arts|Philosophy B.A
+STUDENT|300 Level|Arts|Religious Studies B.A
+STUDENT|300 Level|Arts|Religious Studies_Philosophy B.A
+STUDENT|300 Level|Education|Accounting (B.Sc.Ed)
+STUDENT|300 Level|Education|Adult education (B.Ed)
+STUDENT|300 Level|Education|Biology (B.Sc.Ed)
+STUDENT|300 Level|Education|Chemistry (B.Sc.Ed)
+STUDENT|300 Level|Education|Computer science (B.Sc.Ed)
+STUDENT|300 Level|Education|Economics (B.Sc.Ed)
+STUDENT|300 Level|Education|Educational Management (B.Ed)
+STUDENT|300 Level|Education|English (B.A.Ed)
+STUDENT|300 Level|Education|Geography (B.Sc.Ed)
+STUDENT|300 Level|Education|Guidiance and Counselling (B.Ed)
+STUDENT|300 Level|Education|Health Education (B.Sc.Ed)
+STUDENT|300 Level|Education|History (B.A.Ed)
+STUDENT|300 Level|Education|Human Kinetics (B.Sc.Ed)
+STUDENT|300 Level|Education|Integrated Science (B.Sc.Ed)
+STUDENT|300 Level|Education|Mathematics (B.Sc.Ed)
+STUDENT|300 Level|Education|Physics (B.Sc.Ed)
+STUDENT|300 Level|Education|Political Science (B.Sc.Ed)
+STUDENT|300 Level|Education|Religious studies (B.A.Ed)
+STUDENT|300 Level|Education|Social Studies (B.Ed)
+STUDENT|300 Level|Education|Technical Education (B.Sc.Ed)
+STUDENT|300 Level|Education|Yoruba (B.A.Ed)
+STUDENT|300 Level|Law|Law
+STUDENT|300 Level|Science|Biochemistry B.Sc
+STUDENT|300 Level|Science|Chemistry B.Sc
+STUDENT|300 Level|Science|Computer Science B.Sc
+STUDENT|300 Level|Science|Environmental Biology and Fisheries B.Sc
+STUDENT|300 Level|Science|Geology B.Sc
+STUDENT|300 Level|Science|Geophysics B.Sc
+STUDENT|300 Level|Science|Industrial Chemistry B.Sc
+STUDENT|300 Level|Science|Industrial Mathematics B.Sc
+STUDENT|300 Level|Science|Mathematics B.Sc
+STUDENT|300 Level|Science|Microbiology B.Sc
+STUDENT|300 Level|Science|Physics Electronics B.Sc
+STUDENT|300 Level|Science|Plant Science & Biotechnology B.Sc
+STUDENT|300 Level|Social And Management Science|Accounting B.Sc
+STUDENT|300 Level|Social And Management Science|Banking and Finance B.Sc
+STUDENT|300 Level|Social And Management Science|Business Administration B.Sc
+STUDENT|300 Level|Social And Management Science|Economics B.Sc
+STUDENT|300 Level|Social And Management Science|Geography and Planning Science B.Sc
+STUDENT|300 Level|Social And Management Science|Political Science B.Sc
+STUDENT|300 Level|Social And Management Science|Psychology B.Sc
+STUDENT|300 Level|Social And Management Science|Public Administration B.Sc
+STUDENT|300 Level|Social And Management Science|Sociology B.Sc
+STUDENT|400 Level|ARTS|YORUBA B.A
+STUDENT|400 Level|Arts|English B.A
+STUDENT|400 Level|Arts|History and International Studies B.A
+STUDENT|400 Level|Arts|Linguistic_Yoruba B.A
+STUDENT|400 Level|Arts|Linguistics and Languages B.A
+STUDENT|400 Level|Arts|Mass Communication B.A
+STUDENT|400 Level|Arts|Philosophy B.A
+STUDENT|400 Level|Arts|Religious Studies B.A
+STUDENT|400 Level|Arts|Religious Studies_Philosophy B.A
+STUDENT|400 Level|Education|Accounting (B.Sc.Ed)
+STUDENT|400 Level|Education|Adult education (B.Ed)
+STUDENT|400 Level|Education|Biology (B.Sc.Ed)
+STUDENT|400 Level|Education|Chemistry (B.Sc.Ed)
+STUDENT|400 Level|Education|Computer science (B.Sc.Ed)
+STUDENT|400 Level|Education|Economics (B.Sc.Ed)
+STUDENT|400 Level|Education|Educational Management (B.Ed)
+STUDENT|400 Level|Education|English (B.A.Ed)
+STUDENT|400 Level|Education|Guidiance and Counselling (B.Ed)
+STUDENT|400 Level|Education|Health Education (B.Sc.Ed)
+STUDENT|400 Level|Education|History (B.A.Ed)
+STUDENT|400 Level|Education|Human Kinetics (B.Sc.Ed)
+STUDENT|400 Level|Education|Integrated Science (B.Sc.Ed)
+STUDENT|400 Level|Education|Mathematics (B.Sc.Ed)
+STUDENT|400 Level|Education|Physics (B.Sc.Ed)
+STUDENT|400 Level|Education|Political Science (B.Sc.Ed)
+STUDENT|400 Level|Education|Religious studies (B.A.Ed)
+STUDENT|400 Level|Education|Social Studies (B.Ed)
+STUDENT|400 Level|Education|Technical Education (B.Sc.Ed)
+STUDENT|400 Level|Education|Yoruba (B.A.Ed)
+STUDENT|400 Level|Law|Law
+STUDENT|400 Level|Science|Biochemistry B.Sc
+STUDENT|400 Level|Science|Chemistry B.Sc
+STUDENT|400 Level|Science|Computer Science B.Sc
+STUDENT|400 Level|Science|Environmental Biology and Fisheries B.Sc
+STUDENT|400 Level|Science|Geology B.Sc
+STUDENT|400 Level|Science|Geophysics B.Sc
+STUDENT|400 Level|Science|Industrial Chemistry B.Sc
+STUDENT|400 Level|Science|Industrial Mathematics B.Sc
+STUDENT|400 Level|Science|Mathematics B.Sc
+STUDENT|400 Level|Science|Microbiology B.Sc
+STUDENT|400 Level|Science|Physics Electronics B.Sc
+STUDENT|400 Level|Science|Plant Science & Biotechnology B.Sc
+STUDENT|400 Level|Social And Management Science|Accounting B.Sc
+STUDENT|400 Level|Social And Management Science|Banking and Finance B.Sc
+STUDENT|400 Level|Social And Management Science|Business Administration B.Sc
+STUDENT|400 Level|Social And Management Science|Economics B.Sc
+STUDENT|400 Level|Social And Management Science|Geography and Planning Science B.Sc
+STUDENT|400 Level|Social And Management Science|Political Science B.Sc
+STUDENT|400 Level|Social And Management Science|Psychology B.Sc
+STUDENT|400 Level|Social And Management Science|Public Administration B.Sc
+STUDENT|400 Level|Social And Management Science|Sociology B.Sc
+STUDENT|500 Level|Law|Law
+STUDENT|levels Level|faculty|department

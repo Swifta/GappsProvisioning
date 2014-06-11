@@ -1,0 +1,107 @@
+STAFF|Academic_Staff|Arts|English Studies
+STAFF|Academic_Staff|Arts|History & Int. Studies
+STAFF|Academic_Staff|Arts|Linguistics & Languages
+STAFF|Academic_Staff|Arts|Linguistic_Yoruba
+STAFF|Academic_Staff|Arts|Lingusitic & Languages
+STAFF|Academic_Staff|Arts|Mass Communication
+STAFF|Academic_Staff|Arts|Philosophy
+STAFF|Academic_Staff|Arts|Religion & African Culture
+STAFF|Academic_Staff|Education|Arts Education
+STAFF|Academic_Staff|Education|Arts_Education
+STAFF|Academic_Staff|Education|Educational Management
+STAFF|Academic_Staff|Education|Guidance & Counselling
+STAFF|Academic_Staff|Education|Guidiance & Counselling
+STAFF|Academic_Staff|Education|Science & Tech. Education
+STAFF|Academic_Staff|Education|Social Science Education
+STAFF|Academic_Staff|Law|Law
+STAFF|Academic_Staff|Science|Biochemistry
+STAFF|Academic_Staff|Science|Biochmistry
+STAFF|Academic_Staff|Science|Chemistry
+STAFF|Academic_Staff|Science|Chemistry & Ind. Chemistry
+STAFF|Academic_Staff|Science|Computer Science
+STAFF|Academic_Staff|Science|Environmental Bio. & Fishries
+STAFF|Academic_Staff|Science|Environmental Bio. Fisheries
+STAFF|Academic_Staff|Science|Environmental Biology & Fish.
+STAFF|Academic_Staff|Science|Environmental Biology & Fisheries
+STAFF|Academic_Staff|Science|Geology
+STAFF|Academic_Staff|Science|Geology & Geophysics
+STAFF|Academic_Staff|Science|Industrial Chemistry
+STAFF|Academic_Staff|Science|Industrial Maths
+STAFF|Academic_Staff|Science|Mathematics_Ind Maths
+STAFF|Academic_Staff|Science|Maths & Ind. Maths
+STAFF|Academic_Staff|Science|Microbiology
+STAFF|Academic_Staff|Science|Physics & Electronics
+STAFF|Academic_Staff|Science|Plant Science & Biotechnology
+STAFF|Academic_Staff|Social & Mgt. Sciences|Accounting
+STAFF|Academic_Staff|Social & Mgt. Sciences|Banking & Finance
+STAFF|Academic_Staff|Social & Mgt. Sciences|Business Administration
+STAFF|Academic_Staff|Social & Mgt. Sciences|Economics
+STAFF|Academic_Staff|Social & Mgt. Sciences|Geography & Planning Science
+STAFF|Academic_Staff|Social & Mgt. Sciences|Political Science & Public Admin.
+STAFF|Academic_Staff|Social & Mgt. Sciences|Pure & Applied Psychology
+STAFF|Academic_Staff|Social & Mgt. Sciences|Sociology
+STAFF|Academic_Staff|University Library|Library
+STAFF|Junior_Academic_Staff|Arts|English Studies
+STAFF|Junior_Academic_Staff|Arts|Linguistics
+STAFF|Junior_Academic_Staff|Bursary|Bursary
+STAFF|Junior_Academic_Staff|Health Centre|Health Centre
+STAFF|Junior_Academic_Staff|Physical Planning|Physical Planning
+STAFF|Junior_Academic_Staff|Registry|Registry
+STAFF|Junior_Academic_Staff|Registry|Regsitry
+STAFF|Junior_Academic_Staff|Registry|Regstry
+STAFF|Junior_Academic_Staff|Science|Biochemistry
+STAFF|Junior_Academic_Staff|Science|Central Research Lab
+STAFF|Junior_Academic_Staff|Science|Chemistry
+STAFF|Junior_Academic_Staff|Science|Chemistry& Ind. Chemistry
+STAFF|Junior_Academic_Staff|Science|Computer Science
+STAFF|Junior_Academic_Staff|Science|Environmental Biology & Fisheries
+STAFF|Junior_Academic_Staff|Science|Geology
+STAFF|Junior_Academic_Staff|Science|Microbiology
+STAFF|Junior_Academic_Staff|Science|Physics and Electronics
+STAFF|Junior_Academic_Staff|Science|Plant Science & Biotechnology
+STAFF|Junior_Academic_Staff|Security|Security
+STAFF|Junior_Academic_Staff|Social & Mgt. Sciences|Psychology
+STAFF|Junior_Academic_Staff|Sports|Sports
+STAFF|Junior_Academic_Staff|Staff School|Staff School
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs
+STAFF|Junior_Academic_Staff|University Farm|Farm
+STAFF|Junior_Academic_Staff|University Library|Library
+STAFF|Junior_Academic_Staff|Vice Chancellor's Office|IPPRU
+STAFF|Junior_Academic_Staff|Vice Chancellor's Office|Vice Chancellor's Lodge
+STAFF|Junior_Academic_Staff|Vice Chancellor's Office|Vice Chancellors Office
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services
+STAFF|Senior_Non_Academic_Staff|Arts|Faculty of Arts
+STAFF|Senior_Non_Academic_Staff|Arts|Faculty of Arts_Linguistics
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary
+STAFF|Senior_Non_Academic_Staff|Education|Faculty of Education
+STAFF|Senior_Non_Academic_Staff|Education|Faculty of Education_STE
+STAFF|Senior_Non_Academic_Staff|Health Centre|Health Services
+STAFF|Senior_Non_Academic_Staff|ICTAC|ICTAC
+STAFF|Senior_Non_Academic_Staff|Physcial Planning|Physcial Planning Dev.
+STAFF|Senior_Non_Academic_Staff|Physcial Planning|Physical Planning Dev.
+STAFF|Senior_Non_Academic_Staff|Registry|Registry
+STAFF|Senior_Non_Academic_Staff|Registry|Registry.
+STAFF|Senior_Non_Academic_Staff|Registry|Registy
+STAFF|Senior_Non_Academic_Staff|Science|Biochemistry
+STAFF|Senior_Non_Academic_Staff|Science|Chemistry & Ind. Chemistry
+STAFF|Senior_Non_Academic_Staff|Science|Computer Science
+STAFF|Senior_Non_Academic_Staff|Science|Environmental Biology & Fisheries
+STAFF|Senior_Non_Academic_Staff|Science|Geology
+STAFF|Senior_Non_Academic_Staff|Science|Maths & Ind. Mathematics
+STAFF|Senior_Non_Academic_Staff|Science|Microbiology
+STAFF|Senior_Non_Academic_Staff|Science|Physics & Electronics
+STAFF|Senior_Non_Academic_Staff|Science|Plant Science & Biotechnology
+STAFF|Senior_Non_Academic_Staff|Security|Fire & Safety Unit
+STAFF|Senior_Non_Academic_Staff|Security|Security
+STAFF|Senior_Non_Academic_Staff|Social & Mgt. Sciences|Geography & Planning Science
+STAFF|Senior_Non_Academic_Staff|Sports|Sports
+STAFF|Senior_Non_Academic_Staff|Staff School|Staff School
+STAFF|Senior_Non_Academic_Staff|Student Affairs|Student Affairs
+STAFF|Senior_Non_Academic_Staff|University Farm|Farm
+STAFF|Senior_Non_Academic_Staff|University Library|Library
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|Academic Planning
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|Internal Audit
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|IPPRU
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|Legal Unit
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|SIWES
+STAFF|Senior_Non_Academic_Staff|Works & Services|Works & Services

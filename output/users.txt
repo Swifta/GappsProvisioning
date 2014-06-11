@@ -1,0 +1,162 @@
+STAFF|Academic_Staff|Arts|Philosophy|ADPERSACSE028|Mr|S. A.|LALEYE
+STAFF|Academic_Staff|Social & Mgt. Sciences|Pure & Applied Psychology|ADPERSACSE04|Prof|F. A.|OLUWATELURE
+STAFF|Academic_Staff|Social & Mgt. Sciences|Political Science & Public Admin.|ADPERSACSE06|Prof|N. O.|MIMIKO
+STAFF|Academic_Staff|Arts|Linguistics & Languages|ADPERSACSE071|Mr|O. O.|ALABI
+STAFF|Academic_Staff|Science|Plant Science & Biotechnology|ADPERSACSE08|Dr|V. O.|OLUMEKUN
+STAFF|Academic_Staff|Arts|Philosophy|ADPERSACSE083|Mr|S. A.|LALEYE
+STAFF|Academic_Staff|Social & Mgt. Sciences|Sociology|ADPERSACSE09|Mr|S. O. A.|AKINBULUMO
+STAFF|Academic_Staff|Social & Mgt. Sciences|Political Science & Public Admin.|ADPERSACSE10|Mr|T. A|ADEBOWALE
+STAFF|Academic_Staff|Law|Law|ADPERSACSE102|Mr|T. O.|IBRAHEEM
+STAFF|Academic_Staff|Science|Chemistry & Ind. Chemistry|ADPERSACSE15|Prof|C. O.|ABOLUWOYE
+STAFF|Academic_Staff|Social & Mgt. Sciences|Pure & Applied Psychology|ADPERSACSE152|Dr|G. A.|ADETULA
+STAFF|Academic_Staff|Arts|Linguistics & Languages|ADPERSACSE218|Dr|J. F|ILORI
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE357|Prof|J. T|OGUNDARI
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE359|Prof|S. O.|DARAMOLA
+STAFF|Academic_Staff|Social & Mgt. Sciences|Economics|ADPERSACSE370|Prof|J. B|LONGE
+STAFF|Academic_Staff|Science|Physics & Electronics|ADPERSACSE385|Mr|James Ibitoye|AGBI
+STAFF|Academic_Staff|Science|Physics & Electronics|ADPERSACSE385|Mr|J. I|AGBI
+STAFF|Academic_Staff|Arts|History & Int. Studies|ADPERSACSE440|Dr|J. O.|OKE
+STAFF|Academic_Staff|Education|Guidance & Counselling|ADPERSACSE457|Dr|O.|AKINDEHIN
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE466|Engr|G. A.|ONYEMACHI
+STAFF|Academic_Staff|Law|Law|ADPERSACSE52|Mr|S. F.|OJOMU
+STAFF|Academic_Staff|Education|Social Science Education|ADPERSACSE561|Mr|Oluwatoyin O.|OLOWO
+STAFF|Academic_Staff|Education|Social Science Education|ADPERSACSE561|Mr|O. O|OLOWO
+STAFF|Academic_Staff|Science|Mathematics_Ind Maths|ADPERSACSE563|Mr|S. O.|OGUNLEYE
+STAFF|Academic_Staff|Social & Mgt. Sciences|Geography & Planning Science|ADPERSACSE569|Dr|C. O.|ALONGE
+STAFF|Academic_Staff|Science|Mathematics_Ind Maths|ADPERSACSE581|Dr|I Robert|OKUONGHAE
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE593|Mr|A. I.|ELUMARO
+STAFF|Academic_Staff|Science|Chemistry|ADPERSACSE594|Mr|S. A.|ADESINA
+STAFF|Academic_Staff|Science|Chemistry|ADPERSACSE594|Mrs|Abiola Olanike|ADESINA
+STAFF|Academic_Staff|Science|Computer Science|ADPERSACSE595|Mr|S. M.|ORIMOLOYE
+STAFF|Academic_Staff|Science|Plant Science & Biotechnology|ADPERSACSE611|Mr|A. T.|AJAYI
+STAFF|Academic_Staff|Science|Geology|ADPERSACSE635|Dr|N. Ademola|OLORUNNIWO
+STAFF|Academic_Staff|Arts|Mass Communication|ADPERSACSE653|Prof|J. A.|SAMBE
+STAFF|Academic_Staff|Science|Industrial Chemistry|ADPERSACSE659|Mr|F. F.|OLOYE
+STAFF|Academic_Staff|Science|Microbiology|ADPERSACSE675|Prof|A. K.|ONIFADE
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE678|Dr|B. O.|ADEDUGBE
+STAFF|Academic_Staff|Education|Science & Tech. Education|ADPERSACSE680|Mr|A. A.|AKINGBEMISILU
+STAFF|Academic_Staff|Science|Biochemistry|ADPERSACSE682|Mr|T. T.|ADEYELU
+STAFF|Academic_Staff|Arts|Religion & African Culture|ADPERSACSE685|Dr|T. A.|FALAYE
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE14|Mr|A. O.|ADEDEJI
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE157|Mrs|D. O.|ADELEYE
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE159|Mr|F. Samuel|FISUSI
+STAFF|Senior_Non_Academic_Staff|Physcial Planning|Physcial Planning Dev.|ADPERSATSE251|Arch|E. O.|ORIMOLOYE
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE265|Mr|Adesola|OSANYINLUSI
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE265|Mrs|A. A.|KOLAWOLE
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE27|Mrs|M. B.|ARANUWA
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE281|Mr|R. Yemisi|AKINNAWONU
+STAFF|Senior_Non_Academic_Staff|Science|Biochemistry|ADPERSATSE293|Mrs|O. Cecilia|EJELONU
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE30|Mr|O. T.|AKINTERINWA
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE323|Mrs|C. O.|UMARU
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE356|Mr|O. Festus|ADEJORO
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE359|Mrs|T. M.|MUSA
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE377|Mrs|C.|OLAMIJU
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE378|Mrs|G. O.|ROTIBA
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE381|Mrs|V. B.|ADEBOMI
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE383|Mrs|F. I.|GABRIEL
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE387|Mrs|B. F.|ADUNBIODE
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE388|Mr|F. Olanrewaju Jacob|AKINWUMI
+STAFF|Senior_Non_Academic_Staff|Works & Services|Works & Services|ADPERSATSE405|Mr|E.|OLOFINTUSIN
+STAFF|Senior_Non_Academic_Staff|Vice Chancellor's Office|Internal Audit|ADPERSATSE44|Mrs|A Opeyemi|AKINWOTU
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE451|Mr|K. D.|OLANIYAN
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE452|Mrs|A. V.|JATTO
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE455|Mrs|O. V.|OLOGUN
+STAFF|Senior_Non_Academic_Staff|Health Centre|Health Services|ADPERSATSE457|Mrs|B.|OLORUNKOYA
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE458|Mrs|D. M.|OLUWADAIRO
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE480|Mrs|A. F. Inumidun|OMOLEHIN
+STAFF|Senior_Non_Academic_Staff|Works & Services|Works & Services|ADPERSATSE486|Mr|J. O.|ALE
+STAFF|Senior_Non_Academic_Staff|Bursary|Bursary|ADPERSATSE491|Mrs|S. A.|KOMOLAFE
+STAFF|Senior_Non_Academic_Staff|Registry|Registry|ADPERSATSE539|Mrs|I. Racheal|OWOPUTI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE02|Mr|E. O.|IDOGUN
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE031|Mr|J. O.|AKINDE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE039|Mr|J. K.|FALANA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE055|Mr|S. A.|OLOWOOKERE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE071|Mrs|O. B.|SALEMCITY
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE072|Mr|K. K.|ADEOSUN
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE114|Mrs|J. B.|OLORUNSOLA
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE120|Mr|S. A.|OMOLADE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE133|MR|J. O.|ABE
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE137|Mr|T. A.|OSUNGBOYE
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE161|MR|D. Blessing|AMUSA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE169|Mrs|I. Funmilola|OBAFEMI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE171|Mrs|E. B.|OLANIRAN
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE201|Mr|O. Friday|AKINOLA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE216|Mrs|C. O.|ADEAGBO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE239|Mrs|C.|OJOWURO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE258|Mrs|G.|OMOLE
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE260|Mr|J. L.|OBAMEHINTI
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE264|Mr|L. T.|OMOMUKUYOMI
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE266|Mr|A.|ADEGBORO
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE267|Mr|A.|IDOHUN
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE268|Mr|E.|OLORUNKIYA
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE269|Mr|O.|OMORINKOBA
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE271|MR|A. O.|ADEKANBI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE314|Mr|O. Temitope|OLOTU
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE318|Mr|U.|ADAMO
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE322|Mr|B. E.|OLOWOYO
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE341|Mr|R. L.|OWOEYE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE345|Mr|E T. J.|ANOGB
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE355|Mr|S. T.|OLASENI
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE37|Mr|P. O.|TAMETA
+STAFF|Junior_Academic_Staff|Science|Plant Science & Biotechnology|ADPERSJSE402|Mrs|A. Mary|TUGBIYELE
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE418|Mr|A. T.|MUSILIU
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE425|Mrs|G. Idowu|FANIBUYAN
+STAFF|Junior_Academic_Staff|Science|Geology|ADPERSJSE427|Mr|K. J.|OLOTIN
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE429|Mrs|Fatima T.|MOHANMMED
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE429|Mrs|F. T|MUHAMMED
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE434|Mrs|M.|JAYEOBA
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE457|Mrs|F.|OSHODI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE471|Mrs|E. O.|AKINOLA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE483|Mrs|T.|EWAOYENIKAN
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE484|Mr|S. A.|OYINLADE
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE517|MR|K. A.|ILESANMI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE526|Miss|O. Tope.|IKUDEHINBU
+STAFF|Junior_Academic_Staff|Security|Security|ADPERSJSE535|Mrs|C. T.|TANIMOWO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE56|Mrs|B.|MERETINGHAN
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE576|Mrs|J. K.|FANIRAN
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE588|Miss|R. O.|ABIALA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE602|Mrs|F. J.|KOMOLAFE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE624|Mrs|A. O.|AYENI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE636|Mr|O. Olakunle|FALUSI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE658|Mrs|N. O.|ABDULAI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE661|Mrs|O. F.|OKE- MICHAEL
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE670|Miss|C. A.|FATORISA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE673|Mrs|O. Mercy|MUSA
+STAFF|Junior_Academic_Staff|Sports|Sports|ADPERSJSE676|MR|O. Joseph|ABU
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE682|Mrs|H. A.|ABODUNWA
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE684|Mr|M. O.|OLUPONA
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE685|Mrs|E. O.|OGUNLANA
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE686|Mr|I. N.|OGUNLEYE
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE687|Mr|S. S.|OLORUNSOLA
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE697|Mr|A. C.|EKUNDAYO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE698|Mr|E. O.|OSHAGBEMI
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE702|Mr|A. C.|AISIDA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE704|Mrs|S. A.|ASOPO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE707|Mr|L. L.|OLOWOOKERE
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE708|Mr|O. Felix|OLAKUNLE
+STAFF|Junior_Academic_Staff|Bursary|Bursary|ADPERSJSE712|Mrs|B. R.|ABIMBOLA
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE718|Mrs|J.|OWAMOYO
+STAFF|Junior_Academic_Staff|Social & Mgt. Sciences|Psychology|ADPERSJSE737|Miss|O. V.|MAYAKI
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE740|Mrs|O. D.|BABATUNDE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE741|Mrs|M. B.|ADEYERI
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE748|Mr|A. Taye|ALEGBE
+STAFF|Junior_Academic_Staff|University Library|Library|ADPERSJSE785|Mr|I.|OGUNBOYEWA
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE786|Mr|B. S.|AGUDA
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE790|Mrs|M. M.|AHMED
+STAFF|Junior_Academic_Staff|Student Affairs|Student Affairs|ADPERSJSE804|Mrs|T. A.|ADEBIYI
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE805|Mrs|O.|ASOKO
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE810|Mrs|A. F.|MENAWONU
+STAFF|Junior_Academic_Staff|Registry|Regsitry|ADPERSJSE813|Mrs|O Folashade|ASHAMU
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE814|Mrs|R. Nike|ODENIYA
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE815|Mr|A. S.|MUSA
+STAFF|Junior_Academic_Staff|Security|Security|ADPERSJSE835|Mr|R.|AKINBOBOYE
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE837|Mr|A. T.|OGBEYE
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE838|Mr|J. T. A.|EKUNDAYO
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE842|Mr|S. A.|ALIU
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE843|Mr|A. R.|FASORANTI
+STAFF|Junior_Academic_Staff|Physical Planning|Physical Planning|ADPERSJSE89|Mr|M. O.|OLAWOYE
+STAFF|Junior_Academic_Staff|Registry|Registry|ADPERSJSE905|Mr|M. J.|MOHAMMED
+STAFF|Junior_Academic_Staff|Vice Chancellor's Office|Vice Chancellor's Lodge|ADPERSJSE916|Mrs|C.|AYETUNBI
+STAFF|Junior_Academic_Staff|Works & Services|Works & Services|ADPERSJSE933|Mr|O.|OLOWOGORIOYE
+STAFF|Junior_Academic_Staff|Vice Chancellor's Office|Vice Chancellors Office|ADPERSJSE948|Mr|S. Wasiu|GBADAMOSI
+STAFF|Junior_Academic_Staff|Security|Security|ADPERSJSE958|Mr|A. B|OGUNDARE
