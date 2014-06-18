@@ -42,7 +42,7 @@
                 <p>Create Organisation Units</p></br>
             </h1> 
         
-        <p>Make sure the PathName exists on your domain for Organisation Units before you enter it. Enter Path format is "SWIFTA/STAFF/" without the quotation mark</p></br>
+        <p>Make sure the PathName exists on your domain for Organisation Units before you enter it. Enter Path format is "SWIFTA/STAFF" without the quotation mark</p></br>
     </br>
        <?php
 /* 
@@ -103,13 +103,12 @@ curl_setopt($ch, CURLOPT_POSTFIELDS,
 // Send the request & save response to $resp
 $resp = curl_exec($ch);
 // Close request to clear up some resources
-//echo $resp. "</br></br>";
+
 
 $json = json_decode($resp, true);
 $access_token = $json['access_token'];
 $refresh_token = $json['refresh_token'];
-//echo "access token: 	" . $json['access_token'] . "</br></br>";
-//echo "refresh token: 	" . $json['refresh_token'] . "</br></br>";
+
 
 curl_close($ch);
 

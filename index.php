@@ -47,31 +47,11 @@ and open the template in the editor.
             <h2><p> Instructions </p></h2>
             <p>1. You must be an administrator with full priviledge on your domain</p>
             <p>2. To create organisations on your domain, enter the names according to the stage/level that you want to create.</p>
-            <p>3. To create USERS, supply a text file with the format below</p>
             </br>
             </br>
             
             <?php
-                    require_once 'Google/Client.php';
-
-                    require_once 'Google/Service/Admin.php';
-
-                     require_once 'Google/Service/Directory.php';
-                    require_once 'Google/Http/Request.php';
-
-                    //$client_id ="630317041952-3t34uu44ojgtovsmno1ue88l82vnp1cb.apps.googleusercontent.com";
-                    //$client_secret ="RjvdVDT3umVO-Aj9Qtrnr8r8";
-                    //$redirect_uri ="http://localhost/project/kay2.php";
-
-                    //$client = new Google_Client();
-                    //$client->setClientId($client_id);
-                    //$client->setClientSecret($client_secret);
-                    //$client->setRedirectUri($redirect_uri);
-                    //$client->setScopes("https://www.googleapis.com/auth/admin.directory.user","https://www.googleapis.com/auth/admin.directory.orgunit");
-                    //if(isset($_POST["launch"])){
-                    //$authUrl = $client->createAuthUrl();
-                        
-                    //echo "Welcome to the Provisioning Web Application for Google Apps Admin";        
+                          
                     // put your code here
                     //}
                     $data ="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%2Fgappsprovisioning%2Fstartprovision.php";

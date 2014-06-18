@@ -66,9 +66,9 @@ if($_GET['org'] == 1){
 
 echo "Checking primary organisation if group (file 1) exist:" . "</br></br>";
 $target_path1 = "output1/";
-//$_SESSION['path'] = $target_path;
+
 $target_path = $target_path1 . basename( $_FILES['file1']['name']); 
-//echo $target_path;
+
 if(move_uploaded_file($_FILES['file1']['tmp_name'], $target_path)) {
     echo "The file ".  basename( $_FILES['file1']['name']). 
     " has been uploaded";
